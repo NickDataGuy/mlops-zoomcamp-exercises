@@ -1,2 +1,1 @@
-# mlops-zoomcamp-exercises
-Testing my first commit!
+This is my MLOPs exercise
