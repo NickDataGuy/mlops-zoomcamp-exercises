@@ -1,0 +1,7 @@
+*.db
+mlruns/
+mlartifacts/
+**/mlartifacts/
+__pycache__/
+models/
+.ipynb_checkpoints/
